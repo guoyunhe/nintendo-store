@@ -23,7 +23,7 @@ export default function Games() {
                 <div>{game.description}</div>
               </Card.Content>
               <Card.Actions>
-                <Button type="primary">Buy</Button>
+                <Button type="primary">Buy ${game.price.regPrice}</Button>
               </Card.Actions>
             </Card>
           </Grid.Col>
