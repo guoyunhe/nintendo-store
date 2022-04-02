@@ -1,0 +1,6 @@
+[submodule "src/modules/xbox-store"]
+	path = src/modules/xbox-store
+	url = git@github.com:guoyunhe/xbox-store.git
+[submodule "src/modules/playstation-store"]
+	path = src/modules/playstation-store
+	url = git@github.com:guoyunhe/playstation-store.git
