@@ -18,6 +18,7 @@
     "stylelint": "^13.2.0"
   },
   "scripts": {
+    "postinstall": "git submodule update --init",
     "start": "icejs start",
     "build": "icejs build",
     "lint": "npm run eslint && npm run stylelint",
