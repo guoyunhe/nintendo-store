@@ -1,4 +1,4 @@
-## Nintendo Store
+# Nintendo Store
 
 ```bash
 # initialize/update modules, add it to postinstall script of package.json
